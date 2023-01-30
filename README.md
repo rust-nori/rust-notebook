@@ -14,3 +14,6 @@ $ jupyter-lab
 
 ### reference
 - https://github.com/log-diginori/log-diginori.github.io/issues/37
+
+### path finder
+- https://github.com/zerosum99/rust_study_jupyter
